@@ -35,7 +35,7 @@ Metrics:
 
 RMSE
 MAE
-R²
+R² score
 Result: Random Forest achieved the highest accuracy and stable predictions.
 
 6. Prediction
